@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrunoHR98
+- 👋 Hi, I’m @brunohr98
 - 👀 I’m interested in python, data science and machine learning
 - 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on python projects
